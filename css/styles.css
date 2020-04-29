@@ -1,0 +1,129 @@
+#title{
+  /* background-color: #0B6623; */
+   /* background-color: #6f2da8;  */
+  /* background-color: #f9a602; */
+  /* background-color: #120136; */
+/* background-color: #142850; */
+    color: #fff;
+
+
+
+
+}
+.op{
+  opacity: 0.5;
+}
+body{
+  margin: 0;
+}
+.download-btn{
+  margin: auto 5% ;
+}
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem !important;
+
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 50px;
+  width: 60%;
+  font-size: 3.5rem !important;
+  line-height: 1.5;
+}
+.container_fluid {
+  padding: 2% 15% 10% 15%;
+  background-image: url('samp1.jpg');
+}
+.btn{
+  margin:3% auto;
+}
+#about{
+  color: #120136;
+
+  font-family: 'Montserrat', sans-serif;
+  padding:7% 15% 14%;
+  background-color: #fff;
+
+}
+.abt-head{
+  text-align: center;
+}
+.d2{
+  margin-left: 475px;
+  text-align: left;
+}
+h2{
+  font-weight: bold !important;
+  line-height: 1.5;
+  font-size: 3rem !important;
+}
+.about-desc{
+  margin-top: 50px;
+  line-height: 2;
+  width: 50%;
+  color: #8f8f8f;
+}
+#features{
+color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding:3% 15% 14%;
+  background-color: #142850;
+
+}
+.carousel-inner{
+padding-top: 10%;
+}
+.feature-text{
+  line-height: 2;
+  text-align: center;
+  width: 60%;
+  margin: auto auto;
+}
+.btnn{
+  padding-top: 10%;
+}
+#team{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  line-height: 2;
+  padding:3% 15% 14%;
+  background-color: #fff;
+}
+.team-heading{
+  color: #142850;
+}
+.team-desc{
+  color: #8f8f8f;
+  padding-top: 4%;
+}
+.timg{
+  width:200px;
+  height:200px;
+  margin: 50px auto;
+  border-radius: 100%;
+}
+#footer{
+  text-align: center;
+  padding: auto 15%;
+  background-color: #30475e;
+  background-color:
+}
+.soc{
+
+  padding: 5% 3%
+}
+.socimg{
+  color: black;
+}
+.socimg:hover{
+  color: white;
+}
+h4{
+  color: #8f8f8f;
+  font-family: 'Montserrat', sans-serif;
+}
